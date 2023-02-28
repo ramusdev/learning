@@ -1,16 +1,17 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        // System.out.println("This is Java project");
-        // System.out.println("Second string");
+        Scanner scanner = new Scanner(System.in);
 
-        boolean a = true;
+        System.out.println("Insert a: ");
+        int variableA = scanner.nextInt();
 
-        if (a) {
-            System.out.println("a is true");
-        } else {
-            System.out.println("a is false");
-        }
-        System.out.println(add(1, 2));
+        System.out.println("Insert b: ");
+        int variableB = scanner.nextInt();
+
+        System.out.println("Result: ");
+        System.out.println(add(variableA, variableB));
     }
     public static int add (int a,int b) {
         int result = 0;
