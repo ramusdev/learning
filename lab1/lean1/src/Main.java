@@ -18,4 +18,5 @@ public class Main {
         result = a + b;
         return result;
     }
+    Scanner scan = new Scanner(System.in);
 }
