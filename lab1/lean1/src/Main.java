@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         // System.out.println("This is Java project");
@@ -17,4 +19,5 @@ public class Main {
         result = a + b;
         return result;
     }
+    Scanner scan = new Scanner(System.in);
 }
