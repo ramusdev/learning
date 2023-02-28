@@ -30,7 +30,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager">
@@ -56,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677586939732</updated>
       <workItem from="1677586940966" duration="157000" />
+      <workItem from="1677587549031" duration="265000" />
     </task>
     <servers />
   </component>
