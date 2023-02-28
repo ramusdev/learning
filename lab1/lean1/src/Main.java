@@ -10,15 +10,11 @@ public class Main {
         } else {
             System.out.println("a is false");
         }
-
         System.out.println(add(1, 2));
-
     }
-
     public static int add (int a,int b) {
         int result = 0;
         result = a + b;
         return result;
     }
-
 }
